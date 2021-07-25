@@ -77,7 +77,7 @@ hr {
 
 .bottom-cloud {
   position: absolute;
-
+  right: 0px;
 }
 .top-cloud {
 margin-right: 50.000rem;
@@ -102,9 +102,17 @@ top: 0.625rem;
 .contact-me {
   background-color: #53B8BB;
   padding-top: 10px;
-  padding-bottom: 10px;
 }
 
 .get-in-touch {
   color: white;
+}
+.email {
+  margin-right: 10px;
+}
+.link {
+  margin-right: 10px;
+}
+.face {
+  margin-right: 10px;
 }
