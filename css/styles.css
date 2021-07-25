@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+
+}
+
+h1 {
+  margin: 0;
+  color: #055052;
+  font-size: 4rem;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  color: #055052;
+  font-size: 1.875rem;
+  text-align: center;
+  font-weight: normal;
+}
+
+hr {
+  background-color: white;
+  color: grey;
+}
+.top-box {
+  background-color: white;
+  position: relative;
+  padding-top: 3.125rem;
+}
+
+.middle-box {
+  background-color: white;
+}
+
+
+.skills {
+  background-color: white;
+  position: relative;
+}
+
+.education {
+  display: inline-block;
+  text-align: left;
+}
+
+.skill-row1 {
+  background-color: white;
+  display: inline-block;
+  margin-bottom: 3.125rem;
+  margin-right: 3.125rem;
+}
+.skill-row2 {
+  background-color: white;
+  display: inline-block;
+  margin-bottom: 3.125rem;
+  margin-left: 3.125rem;
+}
+.skill-row3 {
+  background-color: white;
+  display: inline-block;
+  margin-bottom: 3.125rem;
+  margin-left: 3.125rem;
+  position: relative;
+  bottom: 20px;
+}
+
+.bottom-box {
+  background-color: #53B8BB;
+  padding-top: 1rem;
+}
+
+.mountain {
+  left: 3.125rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+
+}
+.top-cloud {
+margin-right: 50.000rem;
+position: absolute;
+left: 5.000rem;
+top: 0.625rem;
+}
+
+.profile {
+  position: relative;
+  top: 3.125rem;
+  right: 31.250rem;
+}
+
+.about-me {
+  position: relative;
+  bottom: 14.375rem;
+  background-color: white;
+  display: inline-block;
+}
+
+.get-in-touch {
+  color: white;
+}
